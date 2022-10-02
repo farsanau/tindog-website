@@ -5,6 +5,6 @@ TinDog
 This is dating website for dogs
 
 # Tech
-## Html
-## CSS
-## Bootstrap
+### Html
+### CSS
+### Bootstrap
